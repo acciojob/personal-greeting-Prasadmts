@@ -27,7 +27,7 @@ const App = () => {
           <p id="greetings"></p>
         </form>
     </div>
-  )
+  );
 }
 
 export default App
